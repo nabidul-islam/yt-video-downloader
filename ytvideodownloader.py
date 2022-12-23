@@ -17,4 +17,3 @@ dn_video = videos[dn_option]
 dn_video.download()
 
 print("Downloaded successfully")
-print("Downloaded successfully")
